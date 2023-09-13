@@ -1,6 +1,6 @@
 :root {
   --branding-color: #22ac26;
-  --secondary-color: #f9f7fe;
+  --secondary-color: #dbf6c88d;
   --heading-font-family: "Poltawski Nowy", serif;
   --default-font-family: "Poppins", sans-serif;
 }
@@ -99,7 +99,7 @@ p {
 }
 
 .btn-branding:hover {
-  color: white;
+  color: rgb(26, 39, 79);
 }
 
 .btn-branding-outline {
@@ -114,7 +114,7 @@ p {
 
 .btn-branding-outline:hover {
   background: var(--branding-color);
-  color: white;
+  color: rgb(255, 255, 255);
 }
 
 .project-desciption {
